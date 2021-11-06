@@ -7,13 +7,13 @@ account: admin
 password: a
 
 2. staff:
-account: anhle
+account: Quangbui1
 password: a
 
 3. trainer:
-account: anh2
+account: Quangbui2
 password: a
 
 4. trainee
-account: trainee1
+account: Quangbui3
 password: a
